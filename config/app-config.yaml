@@ -20,3 +20,34 @@ development:
   hot_reload: false
   debug_mode: false
   mock_apis: false
+
+# Experimental features are commented out because they are not production ready.
+# experimental_mode: true
+# database:
+#   host: cluster.example.com
+#   port: 5432
+#   name: devops_experimental
+#   distributed: true
+#
+# features:
+#   auto_scaling: advanced
+#   load_balancer: ai-optimized
+#   backup_enabled: true
+#   chaos_engineering: enabled
+#
+# ai_features:
+#   predictive_scaling: true
+#   anomaly_detection: true
+#   auto_optimization: true
+#   model_version: "v2.1.0"
+#
+# cloud_providers:
+#   - aws
+#   - azure
+#   - gcp
+#   - digitalocean
+#
+# security:
+#   zero_trust: enabled
+#   encryption: AES-256
+#   audit_logging: comprehensive
