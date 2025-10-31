@@ -5,8 +5,8 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 ## Project Status
 - *Version*: 1.0.0 (Production), 2.0.0-beta (Development)
 - *Environments*: Production & Development
-- *Student*: SRINIJA PULLIPUDI
-- *Student ID*: 23MH1A05O3
+- *Student*: SRI SURYA LAKSHMI BULUSU
+- *Student ID*: 23MH1A05F2
 
 ## Features
 
